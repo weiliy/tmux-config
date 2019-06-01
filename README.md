@@ -3,11 +3,12 @@ my tmux config and notes
 
 ## My key binding
 
-- reload config file: `C-b-r`
-- switch panes using VI keybindign: `C-b-[hjkl]`
-- resize panes using VI keybindign: `C-b-[HJKL]`
-- Enable mose mode: `C-b-m`
-- Disable mose mode: `C-b-M`
+- lead key 'C-a'
+- reload config file: `C-a-r`
+- switch panes using VI keybindign: `C-a-[hjkl]`
+- resize panes using VI keybindign: `C-a-[HJKL]`
+- Enable mose mode: `C-a-m`
+- Disable mose mode: `C-a-M`
 
 ## My setting
 
